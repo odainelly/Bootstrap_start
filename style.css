@@ -1,0 +1,46 @@
+:root{
+
+    --bs-body-color: #494949;
+    --bs-primary: #b50bb5;
+
+
+}
+
+.btn-primary{
+    background-color: var(--bs-primary);
+    border: 1px solid var(--bs-primary);
+}
+
+
+
+.min-height-feature-img{
+    min-height: 22rem;
+}
+
+.mb-6{
+    margin-bottom: 64px;
+}
+
+.mb-7{
+    margin-bottom: 80px;
+}
+
+.mb-8{
+    margin-bottom: 96px;
+}
+
+.mb-9{
+    margin-bottom: 112px;
+}
+
+.mb-10{
+    margin-bottom: 128px;
+}
+
+.mb-11{
+    margin-bottom: 144px;
+}
+
+.mb-12{
+    margin-bottom: 160px;
+}
